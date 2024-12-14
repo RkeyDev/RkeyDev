@@ -24,7 +24,7 @@ I'm Roei Kleiner, a **high school student** majoring in **Computer Science**, wi
 
 ---
 
-## Tools
+## Tools and Platforms
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
