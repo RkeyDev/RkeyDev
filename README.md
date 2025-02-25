@@ -22,7 +22,7 @@ I'm Roei Kleiner, a **high school student** majoring in **Computer Science**, wi
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Nextcord (Discord API)](https://img.shields.io/badge/Nextcord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-
+![React](https://img.shields.io/badge/React-458bba?style=for-the-badge&logo=react&logoColor=white)
 ---
 
 ## Tools and Platforms
@@ -44,7 +44,7 @@ I'm Roei Kleiner, a **high school student** majoring in **Computer Science**, wi
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-458bba?style=for-the-badge&logo=react&logoColor=white)
+
 ---
 
 Thanks for visiting!
