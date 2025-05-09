@@ -1,5 +1,5 @@
 # Hi there!
-I'm Roei Kleiner, a **high school student** majoring in **Computer Science**, with a strong focus on becoming a professional programmer. My ultimate goal is to work in the tech industry as a software developer and to contribute to innovative projects.
+I'm Roei Kleiner, a **high school student** from **Israel** majoring in **Computer Science**, with a strong focus on becoming a professional programmer. My ultimate goal is to work in the tech industry as a software developer and to contribute to innovative projects.
 
 
 ## Main Programming Languages
