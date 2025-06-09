@@ -31,7 +31,6 @@ I'm Roei Kleiner, a **high school student** from **Israel** majoring in **Comput
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![UML](https://img.shields.io/badge/UML-007396?style=for-the-badge&logo=uml&logoColor=white)
 
 
 ---
