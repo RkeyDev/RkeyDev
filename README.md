@@ -24,6 +24,7 @@ I'm Roei Kleiner, a **high school senior** from **Israel** majoring in **Compute
 ![Nextcord (Discord API)](https://img.shields.io/badge/Nextcord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-458bba?style=for-the-badge&logo=react&logoColor=white)
+
 ---
 
 ## Tools and Platforms
@@ -34,14 +35,12 @@ I'm Roei Kleiner, a **high school senior** from **Israel** majoring in **Compute
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)  
 
+---
+
+## IDE's
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-
-
-
-
 
 ---
 
