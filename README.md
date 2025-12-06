@@ -58,6 +58,13 @@ I'm Roei Kleiner, a **high school senior** from **Israel** majoring in **Compute
 
 ---
 
+## DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+---
+
 ## Other Skills
 ![UML](https://img.shields.io/badge/UML-007396?style=for-the-badge&logo=uml&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=data&logoColor=white)
@@ -67,7 +74,6 @@ I'm Roei Kleiner, a **high school senior** from **Israel** majoring in **Compute
 ## I'm Currently Learning
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
