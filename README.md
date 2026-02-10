@@ -19,6 +19,7 @@ I'm Roei Kleiner, a **high school senior** from **Israel** majoring in **Compute
 ---
 
 ## Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Nextcord (Discord API)](https://img.shields.io/badge/Nextcord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -35,7 +36,7 @@ I'm Roei Kleiner, a **high school senior** from **Israel** majoring in **Compute
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-  
+  
 ---
 
 ## IDE's
