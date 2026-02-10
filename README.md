@@ -64,7 +64,6 @@ I'm Roei Kleiner, a **high school senior** from **Israel** majoring in **Compute
 
 ---
 
----
 
 ## Other Skills
 ![UML](https://img.shields.io/badge/UML-007396?style=for-the-badge&logo=uml&logoColor=white)
