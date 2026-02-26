@@ -71,10 +71,4 @@ I'm Roei Kleiner, a **high school senior** from **Israel** majoring in **Compute
 
 ---
 
-## I'm Currently Learning
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
-
----
-
 Thanks for visiting!
