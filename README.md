@@ -1,5 +1,5 @@
 # Hi there!
-I'm Roei Kleiner, an 18-year-old from Israel with a strong focus on becoming a professional software engineer. My ultimate goal is to work in the tech industry and contribute to innovative engineering projects.
+I'm Roei Kleiner, an 18-year-old from Israel with a strong focus on becoming a professional software engineer. My ultimate goal is to work in the tech industry and contribute to innovative projects.
 
 ---
 
