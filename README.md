@@ -1,4 +1,3 @@
-# Hi there!
 Systems-focused software engineer with a strong technical background in software development and architectural design. Track record of independently designing and building low-latency, real-time distributed applications and thread-safe backends, from concept through deployment.
 
 ---
