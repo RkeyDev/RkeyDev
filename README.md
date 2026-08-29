@@ -1,5 +1,5 @@
 # Hi there!
-I'm Roei Kleiner, an 18-year-old from Israel with a strong focus on becoming a professional software engineer. My ultimate goal is to work in the tech industry and contribute to innovative projects.
+Systems-focused software engineer with a strong technical background in software development and architectural design. Track record of independently designing and building low-latency, real-time distributed applications and thread-safe backends, from concept through deployment.
 
 ---
 
